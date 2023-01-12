@@ -9,7 +9,7 @@
   
   🎓 Hi There! I'm a AI researcher.
          🔥 I love... 🔥
-<p>💪Exercise,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;:camera:Camera</p>
+💪Exercise,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;:camera:Camera
   
 
   <br>
