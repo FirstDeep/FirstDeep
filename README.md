@@ -3,8 +3,7 @@
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=firstdeep"/>
   
 ## 👋 Byunghoon Hwang 👋 
-  
-    <a href="mailto:david.hwang@khu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=david.hwang@khu.ac.kr"/></a>
+  <a href="mailto:david.hwang@khu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=david.hwang@khu.ac.kr"/></a>
   <a href="https://www.linkedin.com/in/byunghoonhwang#gh-light-mode-only"><img src="https://img.shields.io/badge/LinkedIn-3572A5?style=flat-square&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin"></a>
   <a href="www.google.com"><img src="https://img.shields.io/badge/-TechBlog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a> 
   
