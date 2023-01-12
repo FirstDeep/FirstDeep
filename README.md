@@ -14,9 +14,8 @@
 #  
 <h3>🛠 Tech Stack 🛠</h3>
   <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Python-ffb13b?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
   </p>
 </div>
