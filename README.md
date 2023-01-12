@@ -4,16 +4,17 @@
 <p> My main skills are Python, C++ and Pytorch</p>
 
 #
-<h3> :smile: I love...</h3>
+<h3> :sunny: I love...</h3>
 <p>💪Exercise,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;:camera:Camera</p>
   
 #
 <h3>🔥 Tech Stack 🔥</h3>
 <p><img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></p>
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firstdeep&show_icons=true&theme=bear)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firstdeep&layout=compact&theme=bear)
 </div>
-
-
 
 <!--
 **firstdeep/firstdeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
