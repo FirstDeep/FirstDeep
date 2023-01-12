@@ -3,7 +3,7 @@
 <h3>🍀 Me 🍀</h3>
 <p>Hi There! I'm a AI researcher.</p>
 <p align="center">
-  <a href="david.hwang@khu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=david.hwang@khu.ac.kr"/></a>
+  <a href="david.hwang@khu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="david.hwang@khu.ac.kr"/></a>
   <a href="https://www.linkedin.com/in/byunghoonhwang#gh-light-mode-only"><img src="https://img.shields.io/badge/LinkedIn-3572A5?style=flat-square&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin"></a>
  </p>
 
