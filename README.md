@@ -3,7 +3,7 @@
 <h3>🍀 Me 🍀</h3>
 <p>Hi There! I'm a AI researcher.</p>
 <p align="center">
-  <a href="david.hwang@khu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link="david.hwang@khu.ac.kr"/></a>
+  <a href="mailto:david.hwang@khu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=david.hwang@khu.ac.kr"/></a>
   <a href="https://www.linkedin.com/in/byunghoonhwang#gh-light-mode-only"><img src="https://img.shields.io/badge/LinkedIn-3572A5?style=flat-square&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin"></a>
  </p>
 
@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>&nbsp
   </p>
+</div>
+
 #
 <!-- Light Mode -->
 <div align="center"> 
@@ -27,7 +29,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=firstdeep&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-light-mode-only" alt="Byunghoon Hwang's Github stats" />
 </a>
-</div>
+
 
 <!--
 **firstdeep/firstdeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
