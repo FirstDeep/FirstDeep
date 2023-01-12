@@ -10,6 +10,7 @@
 #
 <h3> 🔥 I love... 🔥</h3>
 <p>💪Exercise,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;:camera:Camera</p>
+  
 #  
 <h3>🛠 Tech Stack 🛠</h3>
   <p align="center">
