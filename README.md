@@ -30,6 +30,10 @@
 <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=firstdeep&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-light-mode-only" alt="Byunghoon Hwang's Github stats" />
 </a>
 
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
+
 
 <!--
 **firstdeep/firstdeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
