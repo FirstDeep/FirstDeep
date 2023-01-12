@@ -18,7 +18,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=firstdeep&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=firstdeep&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=12"/>
   
   ### 🛠 SKILL 🛠
    <img src="https://img.shields.io/badge/Python-DB3552?style=flat-square&logo=Python&logoColor=white"/>
