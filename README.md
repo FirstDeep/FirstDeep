@@ -8,7 +8,7 @@
   <a href="https://www.google.com"><img src="https://img.shields.io/badge/-Blog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a> 
   
   🎓 Hi There! I'm a AI researcher.
-<p>💪Exercise,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;
+<p>💪Exercise,&nbsp;&nbsp;💻Programming&nbsp;&nbsp;
   
 
   <br>
